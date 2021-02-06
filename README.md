@@ -1,4 +1,4 @@
-﻿### ADDITIONAL FUNCTIONALITIES ADDED/ CODE IMPROVED:
+﻿## ADDITIONAL FUNCTIONALITIES ADDED/ CODE IMPROVED:
 
 1. CASE INDEPENDENT COMMANDS: users can now type in commands without worrying about whether it is in uppercase or lowercase.
 2. TODO-LIST DELETION: Users can now delete the whole todo-list and start again from the beginning
