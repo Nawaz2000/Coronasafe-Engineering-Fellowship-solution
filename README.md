@@ -1,16 +1,12 @@
-﻿ * ADDITIONAL FUNCTIONALITIES ADDED/ CODE IMPROVED:
- * 
- * 1. CASE INDEPENDENT COMMANDS: users can now type in commands without 
- *    worrying about wheather it is in uppercase or lowercase.
- *    
- * 2. TODO-LIST DELETION: Users can now delete the whole todo-list and start
- *    again from the beginning
- *    Syntax: ./todo delete-todolist
- *    
- * 3. DOWNLOAD: Users can now download their todo by providing the location path
- *    Syntax: ./todo download-todo LOCATION/PATH
- *    Example:  ./todo download-todo C:\Users\mail2\OneDrive\Desktop\folder
+﻿### ADDITIONAL FUNCTIONALITIES ADDED/ CODE IMPROVED:
 
+1. CASE INDEPENDENT COMMANDS: users can now type in commands without worrying about whether it is in uppercase or lowercase.
+2. TODO-LIST DELETION: Users can now delete the whole todo-list and start again from the beginning
+   * Syntax: ./todo delete-todolist
+
+3. DOWNLOAD: Users can now download their todo by providing the location path
+   * Syntax: ./todo download-todo LOCATION/PATH
+   * Example:  ./todo download-todo C:\Users\mail2\OneDrive\Desktop\folder
 
 
 
